@@ -1,2 +1,1 @@
-# MACHINE-LEARNING-BASED-VISUAL-AID-FOR-THE-VISUALLY-IMPAIRED
-CASE TOOL DIAGRAMS
+# Case Diagrams for Machine Learning Based Visual Aid for the Visually Impaired
